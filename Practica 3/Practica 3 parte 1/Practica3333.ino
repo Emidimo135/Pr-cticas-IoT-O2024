@@ -40,7 +40,7 @@ void loop() {
 */
 
 /*3.2
-// Prácticas IoT - Práctica realizada por Profesora: Guadalupe Torres
+// Prácticas IoT - Práctica realizada por Emiliano Diaz
 #include <Wire.h>                 // Librería para la comunicación I2C
 #include <Adafruit_GFX.h>          // Librería gráfica para manejar displays
 #include <Adafruit_SSD1306.h>      // Librería para el display OLED SSD1306
@@ -124,7 +124,7 @@ void loop() {
 
 /*
 3.3
-//Medidor de distancia hecho por Guadalupe Torres
+//Medidor de distancia hecho por Emiliano Diaz
 const int trigPin = 5;   // Pin conectado al Trigger del sensor ultrasónico
 const int echoPin = 18;  // Pin conectado al Echo del sensor ultrasónico
 
@@ -172,7 +172,7 @@ void loop() {
 */
 
 //3.4
-// Medidor de distancia a OLED hecho por Guadalupe Torres
+// Medidor de distancia a OLED hecho por Emiliano Diaz
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
