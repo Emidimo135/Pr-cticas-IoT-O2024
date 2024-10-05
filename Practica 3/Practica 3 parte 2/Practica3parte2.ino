@@ -70,7 +70,7 @@ void loop() {
 */
 
 //3.6
-// Práctica hecha por Guadalupe Torres - clase IoT
+// Práctica hecha por Emiliano Diaz - clase IoT
 // al hacer tu práctica cambia el nombre y describe brevemente que hace esta práctica
 // Código para control de accesos con tarjetas RFID usando el ESP32 y el lector MFRC522
 #include <SPI.h>               // Incluye la biblioteca SPI para la comunicación
