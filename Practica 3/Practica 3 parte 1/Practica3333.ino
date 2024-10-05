@@ -1,4 +1,4 @@
-/*3.1 // Prácticas materia IoT - Práctica realizada por Profesora: Guadalupe Torres G
+/*3.1 // Prácticas materia IoT - Práctica realizada por Emiliano Diaz
 #include "DHT.h" // Se incluye la librería DHT para trabajar con sensores de temperatura y humedad.
 
 // Definimos el pin y el tipo de sensor.
