@@ -1,6 +1,6 @@
 /*3.5
 
-// Práctica hecha por Guadalupe Torres - clase IoT
+// Práctica hecha por Emiliano Diaz - clase IoT
 #include <SPI.h>
 #include <MFRC522.h>
 
